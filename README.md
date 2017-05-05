@@ -1,4 +1,4 @@
-# Project Title
+# Clonegram
 
 Workshop NYCDA: Students are required to build a blog using Ruby on Rails. Users should have basic functions with signing up, logging in, posting, editing posts, and deleting posts.  
 
@@ -31,4 +31,4 @@ Notable Gems:
 
 * The staff at NYCDA, especially instructor Cam Crews and TA Oliver Huang
 * The extremely well documented gems used.
-* Ben Walker for giving countless hints in his tutorial on making the blog. 
+* Ben Walker for giving countless hints in his tutorial on making the blog.
