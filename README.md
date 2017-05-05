@@ -1,24 +1,34 @@
-# README
+# Project Title
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Workshop NYCDA: Students are required to build a blog using Ruby on Rails. Users should have basic functions with signing up, logging in, posting, editing posts, and deleting posts.  
 
-Things you may want to cover:
+## Getting Started
 
-* Ruby version
+To get started, be sure to run rails db:migrate to initialize the Gemfile. From there it should be easy to sign up and start posting. A seed file is in the works so a single user can still interact with other users.  
 
-* System dependencies
+### Prerequisites
 
-* Configuration
+```
+rails db: migrate
+```
 
-* Database creation
+## Deployment
 
-* Database initialization
+Add additional notes about how to deploy this on a live system
 
-* How to run the test suite
+## Built With
 
-* Services (job queues, cache servers, search engines, etc.)
+Notable Gems:
 
-* Deployment instructions
+* [Simple-form]  
+* [Bootstrap]
+* [PaperClip]
+* [Devise]
 
-* ...
+
+
+## Acknowledgments
+
+* The staff at NYCDA, especially instructor Cam Crews and TA Oliver Huang
+* The extremely well documented gems used.
+* Ben Walker for giving countless hints in his tutorial on making the blog. 
