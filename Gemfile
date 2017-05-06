@@ -56,3 +56,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Gems needed for Instagram posting
 gem 'paperclip' # this will help us add photos
+gem 'simple_form' #gem used to create forms for users to fill out when creating Posts
