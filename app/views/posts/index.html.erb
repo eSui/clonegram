@@ -1,1 +1,11 @@
-<h1>Clonegram</h1>
+<h2>Clonegram</h2>
+<div class="container">
+  <%@posts.each do |post|%>
+  <div class="content">
+    <%=image_tag post.image.url(:medium)%>
+    <br>
+    <%=post.caption%>
+  </div>
+
+  <%end%>
+</div>
