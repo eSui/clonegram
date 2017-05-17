@@ -2,42 +2,6 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
-body {
-  background-color: #fafafa !important;
-  font-family: proxima-nova, 'Helvetica Neue', Arial, Helvetica, sans-serif;
-}
-
-.navbar-brand {
-  padding-top: 25px !important;
-  a {
-    color: #003569;
-  }
-}
-
-.navbar-default {
-  background-color: #fff !important;
-  height: 77px;
-  .navbar-nav li a {
-    color: #125688;
-  }
-}
-
-.navbar-brand i {
-  color: #003569;
-  font-size: 20px;
-}
-
-.navbar-collapse{
-  padding-top: 8px;
-  background: #ffffff;
-}
-
-.navbar-container {
-  width: 100%;
-  margin: 0 auto;
-}
-
-
 form {
   padding-top: 13px;
 
@@ -54,60 +18,4 @@ input{
 
 input[placeholder]{
   text-align: center;
-}
-
-
-.posts-wrapper {
-  padding-top: 40px;
-  margin: 0 auto;
-  max-width: 642px;
-  width: 100%;
-}
-
-.post {
-  background-color: #fff;
-  border-color: #edeeee;
-  border-style: solid;
-  border-radius: 3px;
-  border-width: 1px;
-  margin-bottom: 60px;
-}
-
-.post-head {
-  height: 64px;
-  padding: 14px 20px;
-  color: #262626;
-  font-size: 15px;
-  line-height: 32px;
-  .thumbnail {}
-  .name {
-    display: block;
-  }
-}
-
-.image {
-  border-bottom: 1px solid #eeefef;
-  border-top: 1px solid #eeefef;
-}
-
-
-.caption {
-  padding: 24px 24px;
-  font-size: 15px;
-  line-height: 18px;
-
-}
-
-.form-wrapper {
-  width: 60%;
-  margin: 20px auto;
-  background-color: #fff;
-  padding: 40px;
-  border: 1px solid #eeefef;
-  border-radius: 3px;
-}
-
-.edit-links {
-  margin-top: 20px;
-  margin-bottom: 20px;
 }
