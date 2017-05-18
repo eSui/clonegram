@@ -3,8 +3,9 @@ before_action :set_post, only: [:show, :update, :edit, :destroy]
 before_action :authenticate_user!
 before_action :owned_post, only: [:edit, :update, :destroy]
 
+
 def index
- @posts = Post.all
+ @posts = Post.all.reverse
 end
 
 def new
