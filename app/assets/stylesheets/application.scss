@@ -16,8 +16,8 @@
  @import "bootstrap-sprockets";
  @import "bootstrap";
 
-
  body {
+   height: 100%;
    background-color: #fafafa;
    font-family: proxima-nova, 'Helvetica Neue', Arial, Helvetica, sans-serif;
  }
@@ -34,6 +34,14 @@
  .navbar-brand i {
    color: #003569;
    font-size: 20px;
+ }
+
+ .navbar {
+   margin-bottom: 0px !important;
+ }
+
+ .alert{
+   margin-bottom: 0px !important;
  }
 
  .navbar-collapse{
