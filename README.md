@@ -24,6 +24,7 @@ Notable Gems:
 * [Bootstrap]
 * [PaperClip]
 * [Devise]
+* [Kaminari]
 
 
 
@@ -32,3 +33,7 @@ Notable Gems:
 * The staff at NYCDA, especially instructor Cam Crews and TA Oliver Huang
 * The extremely well documented gems used.
 * Ben Walker for giving countless hints in his tutorial on making the blog.
+
+##Heroku Deployed
+
+https://clone-gram.herokuapp.com/
