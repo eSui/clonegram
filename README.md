@@ -34,7 +34,7 @@ Notable Gems:
 * The extremely well documented gems used.
 * Ben Walker for giving countless hints in his tutorial on making the blog.
 
-##Heroku Deployed
+## Heroku Deployed
 
 https://clone-gram.herokuapp.com/
-* While deployed on Heroku, the app will not store pictures permanently. Over time many of the pictures uploaded will be given a default Placeholder.jpg image. 
+* While deployed on Heroku, the app will not store pictures permanently. Over time many of the pictures uploaded will be given a default Placeholder.jpg image.
