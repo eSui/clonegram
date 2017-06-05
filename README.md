@@ -37,3 +37,4 @@ Notable Gems:
 ##Heroku Deployed
 
 https://clone-gram.herokuapp.com/
+* While deployed on Heroku, the app will not store pictures permanently. Over time many of the pictures uploaded will be given a default Placeholder.jpg image. 
